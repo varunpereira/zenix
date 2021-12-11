@@ -1,7 +1,7 @@
 module.exports = {
   env: {
     // "BASE_URL": "http://localhost:3000",
-    BASE_URL: "https://test-omega-murex.vercel.app",
+    BASE_URL: "https://zenix.vercel.app",
     MONGODB_URL:
       "mongodb+srv://0:0@cluster0.ufs0l.mongodb.net/zenix?retryWrites=true&w=majority",
     ACCESS_TOKEN_SECRET: "YOUR_ACCESS_TOKEN_SECRET",
