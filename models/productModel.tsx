@@ -43,5 +43,6 @@ const productSchema = new mongoose.Schema({
     timestamps: true
 })
 
+// mognodb its products collection
 let Dataset = mongoose.models.product || mongoose.model('product', productSchema)
 export default Dataset

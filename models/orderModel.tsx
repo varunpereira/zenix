@@ -24,5 +24,6 @@ const orderSchema = new mongoose.Schema({
     timestamps: true
 })
 
+//mongodb collection: orders
 let Dataset = mongoose.models.order || mongoose.model('order', orderSchema)
 export default Dataset
