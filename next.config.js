@@ -1,6 +1,5 @@
 module.exports = {
   env: {
-    // "BASE_URL": "http://localhost:3000",
     BASE_URL: "https://zenix.vercel.app",
     //BASE_URL: "https://jz65m.sse.codesandbox.io",
     MONGODB_URL:
